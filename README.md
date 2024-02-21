@@ -1,2 +1,3 @@
-# itorres-lm
-Programacion Estructurada, Lunes y Miercoles.
+# COMP2315
+## Autor: Isaí L Torres Viera
+Curso de Programación Estructurada Lunes y Miércoles
