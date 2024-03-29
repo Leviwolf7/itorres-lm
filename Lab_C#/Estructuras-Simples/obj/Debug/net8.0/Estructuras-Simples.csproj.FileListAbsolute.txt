@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\bin\Debug\net8.0\Estructuras-Simples.exe
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\bin\Debug\net8.0\Estructuras-Simples.deps.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\bin\Debug\net8.0\Estructuras-Simples.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\bin\Debug\net8.0\Estructuras-Simples.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\bin\Debug\net8.0\Estructuras-Simples.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\refint\Estructuras-Simples.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\Estructuras-Simples.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\Estructuras-Simples\obj\Debug\net8.0\ref\Estructuras-Simples.dll
