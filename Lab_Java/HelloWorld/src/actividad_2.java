@@ -14,5 +14,7 @@ public class actividad_2 {
         media = (num1 + num2) / 2;
 
         System.out.println("La media es: " + media);
+
+        scanner.close();
     }
 }

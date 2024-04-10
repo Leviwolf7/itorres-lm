@@ -13,5 +13,7 @@ public class Biblioteca {
             // Si esta activada puede usar prestamos
             System.out.println("Puedes realizar prestamos.");
         }
+
+        scanner.close();
     }
 }

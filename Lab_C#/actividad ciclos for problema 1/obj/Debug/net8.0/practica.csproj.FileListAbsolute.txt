@@ -1,0 +1,30 @@
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\bin\Debug\net8.0\practica.exe
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\bin\Debug\net8.0\practica.deps.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\bin\Debug\net8.0\practica.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\bin\Debug\net8.0\practica.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\bin\Debug\net8.0\practica.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\refint\practica.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\practica.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\practica\obj\Debug\net8.0\ref\practica.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\bin\Debug\net8.0\practica.exe
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\bin\Debug\net8.0\practica.deps.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\bin\Debug\net8.0\practica.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\bin\Debug\net8.0\practica.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\bin\Debug\net8.0\practica.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\refint\practica.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\practica.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad ciclos for problema 1\obj\Debug\net8.0\ref\practica.dll

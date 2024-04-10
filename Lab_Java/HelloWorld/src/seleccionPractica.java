@@ -9,5 +9,7 @@ public class seleccionPractica {
         if (n > 0) {
             System.out.println("El numero es positivo");
         }
+
+        scanner.close();
     }
 }
