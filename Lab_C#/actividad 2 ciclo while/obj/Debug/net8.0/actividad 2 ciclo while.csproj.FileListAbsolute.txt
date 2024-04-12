@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\bin\Debug\net8.0\actividad 2 ciclo while.exe
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\bin\Debug\net8.0\actividad 2 ciclo while.deps.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\bin\Debug\net8.0\actividad 2 ciclo while.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\bin\Debug\net8.0\actividad 2 ciclo while.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\bin\Debug\net8.0\actividad 2 ciclo while.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\refint\actividad 2 ciclo while.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\actividad 2 ciclo while.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo while\obj\Debug\net8.0\ref\actividad 2 ciclo while.dll

@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\bin\Debug\net8.0\actividad 2 ciclo for.exe
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\bin\Debug\net8.0\actividad 2 ciclo for.deps.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\bin\Debug\net8.0\actividad 2 ciclo for.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\bin\Debug\net8.0\actividad 2 ciclo for.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\bin\Debug\net8.0\actividad 2 ciclo for.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\refint\actividad 2 ciclo for.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\actividad 2 ciclo for.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo for\obj\Debug\net8.0\ref\actividad 2 ciclo for.dll

@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\bin\Debug\net8.0\actividad 2 ciclo do while.exe
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\bin\Debug\net8.0\actividad 2 ciclo do while.deps.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\bin\Debug\net8.0\actividad 2 ciclo do while.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\bin\Debug\net8.0\actividad 2 ciclo do while.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\bin\Debug\net8.0\actividad 2 ciclo do while.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\refint\actividad 2 ciclo do while.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\actividad 2 ciclo do while.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\actividad 2 ciclo do while\obj\Debug\net8.0\ref\actividad 2 ciclo do while.dll
