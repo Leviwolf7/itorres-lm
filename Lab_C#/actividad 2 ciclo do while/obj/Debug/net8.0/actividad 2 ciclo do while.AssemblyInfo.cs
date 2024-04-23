@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("actividad 2 ciclo do while")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c12e8597f21257f66a7de442be53171e6fd528d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e36cb33068e70ab0928c84ed4aaf275928eb389d")]
 [assembly: System.Reflection.AssemblyProductAttribute("actividad 2 ciclo do while")]
 [assembly: System.Reflection.AssemblyTitleAttribute("actividad 2 ciclo do while")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,5 +3,8 @@
         "COMP",
         "Donald",
         "Trump"
-    ]
+    ],
+    "files.associations": {
+        "cmath": "cpp"
+    }
 }
