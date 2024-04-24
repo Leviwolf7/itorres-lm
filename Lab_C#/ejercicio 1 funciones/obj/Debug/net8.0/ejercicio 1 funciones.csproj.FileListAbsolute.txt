@@ -1,0 +1,15 @@
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.AssemblyInfoInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.AssemblyInfo.cs
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.csproj.CoreCompileInputs.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.sourcelink.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\bin\Debug\net8.0\ejercicio 1 funciones.exe
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\bin\Debug\net8.0\ejercicio 1 funciones.deps.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\bin\Debug\net8.0\ejercicio 1 funciones.runtimeconfig.json
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\bin\Debug\net8.0\ejercicio 1 funciones.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\bin\Debug\net8.0\ejercicio 1 funciones.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\refint\ejercicio 1 funciones.dll
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.pdb
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ejercicio 1 funciones.genruntimeconfig.cache
+C:\Users\levit\OneDrive\Desktop\comp2315-lm\Lab_C#\ejercicio 1 funciones\obj\Debug\net8.0\ref\ejercicio 1 funciones.dll
